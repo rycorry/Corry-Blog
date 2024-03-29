@@ -2,7 +2,7 @@
 layout: post
 title:  "NBA Stats Deep Dive"
 author: Ryan Corry
-description: My Blog based on the data I found and worked on!
+description: "My Blog based on the NBA data I found and worked on!"
 image: "/assets/images/basketballcourt.jpg"
 ---
 
